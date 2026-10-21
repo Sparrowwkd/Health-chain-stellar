@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1512-backend-inventory-low-stock-alerts-restocking",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1512-backend-inventory-low-stock-alerts-restocking": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1512-backend-inventory-low-stock-alerts-restocking",
+    "origin"
+  ]
+}
